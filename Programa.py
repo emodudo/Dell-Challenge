@@ -9,7 +9,7 @@ taxas = {
 }
 
 pesos = {
-    "celulare": 0.5,
+    "celular": 0.5,
     "geladeira": 60.0,
     "freezer": 100.0,
     "cadeira": 5.0,
