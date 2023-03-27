@@ -75,6 +75,6 @@ while True:
     print(f"O peso total da entrega é de {peso:.2f} toneladas")
     print(f"O preço do transporte é de R$ {preco_total:.2f}")
 
-    user_input = input("Deseja calcular novamente? (S/N)20")
+    user_input = input("Deseja calcular novamente? (S/N)")
     if user_input.lower() == "n":
         break
